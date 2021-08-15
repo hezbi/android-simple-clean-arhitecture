@@ -1,2 +1,2 @@
 # MySimpleCleanArchitecture
-[![hezbi](https://circleci.com/gh/hezbi/MySimpleCleanArchitecture.svg?style=shield)](https://circleci.com/gh/hezbi/android-simple-clean-arhitecture)
+[![hezbi](https://circleci.com/gh/hezbi/android-simple-clean-arhitecture.svg?style=shield)](https://app.circleci.com/pipelines/github/hezbi/android-simple-clean-arhitecture)
